@@ -11,7 +11,7 @@ cloud:
       static: us-east-1
       auto: false
     credentials:
-      access-key: XXXX
-      secret-key: XXXX
+      access-key: AKIA3ZMJRV555AVQX4ED
+      secret-key: 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
     end-point:
-      uri: https://sqs.us-east-1.amazonaws.com/549485575026/spring-boot-poc
+      uri: https://sqs.us-east-1.amazonaws.com/810426675067/sqs_hello
